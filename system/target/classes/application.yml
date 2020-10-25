@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: prod
+swagger:
+  enable: true
+  production: false
+  basic:
+    enable: false
+    username: admin
+    password: 123456
